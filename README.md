@@ -1,5 +1,5 @@
 # Curso de Python
-Con este curso podrás aprender Python desde cero, es necesario instalar Python y Jupyter Notebook para abrir los archivos de este curso.
+Con este curso podrás aprender Python desde cero, es necesario instalar Python y Jupyter Notebook para abrir los archivos de este repositorio (.ipynb).
 
 ## Instalar Python y Jupyter Notebook
 
