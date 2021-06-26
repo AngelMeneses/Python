@@ -11,7 +11,7 @@ Con este curso podrás aprender Python desde cero, es necesario instalar Python 
 
 Es resumen para instalar Jupyter Notebook con pip:
 
-Abrir el símbolo de sistema (Terminal o CMD) escribir lo siguiente y dar enter:
+Abrir el Terminal (Mac/Linux) o símbolo del sistema (CMD, Windows) escribir lo siguiente y dar enter:
 
 ```
 pip install notebook
@@ -19,7 +19,7 @@ pip install notebook
 
 Listo, espera a que instale. 
 
-Para ejecutar Jupyter Notebook y abrir los archivos de este curso, abrir la Terminal (Mac/Linux) o en el símbolo del sistema (Windows), escribir y dar enter:
+Para ejecutar Jupyter Notebook y abrir los archivos de este curso, abrir la Terminal o en el símbolo del sistema, escribir y dar enter:
 
 ```
 jupyter notebook
